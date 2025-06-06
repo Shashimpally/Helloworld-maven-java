@@ -19,7 +19,7 @@ This task focuses on automating the build process of a simple Java application u
 
 
 
-hello-java-maven/
+hello-maven-java/
 ├── pom.xml
 ├── README.md
 ├── jenkins\_build\_success\_screenshot.png
